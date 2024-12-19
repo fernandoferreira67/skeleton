@@ -1,3 +1,15 @@
+## Ambiente
+PHP 8.2.12 (cli) (built: Oct 24 2023 21:15:15) (ZTS Visual C++ 2019 x64)
+Copyright (c) The PHP Group
+Zend Engine v4.2.12, Copyright (c) Zend Technologies
+
+Composer - Dependency Manager for PHP - version 2.8.3
+Composer is a dependency manager tracking local dependencies of your projects and libraries.
+See https://getcomposer.org/ for more information.
+
+## Package
+- Autentication: Breezer
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -8,7 +20,6 @@
 </p>
 
 ## About Laravel
-
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
